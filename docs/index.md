@@ -1,0 +1,19 @@
+---
+layout: default
+title: Zendesk Garden Jekyll Theme
+auto_title: false
+---
+
+# CatMus guidelines
+
+Un site statique présentant les avantages de CatMus sur tous les autres projets d'HTR.
+
+## Pourquoi ? 
+
+
+
+## Comment ?
+
+
+## Contribuer, nous écrire
+
