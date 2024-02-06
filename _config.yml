@@ -30,6 +30,7 @@ sidebar:
   - label: Guidelines
     children:
       - abbreviations
+      - segmentation
 
 # Build settings
 markdown: kramdown

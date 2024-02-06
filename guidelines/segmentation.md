@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Abréviations
+title: Segmentation en mots
 auto_title: false
-id: abbreviations
+id: segmentation
 ---
 
-# La gestion des abréviations
+# La gestion de la segmentation linguistique
 
 
 ## Pourquoi conserver les abréviations ? 
