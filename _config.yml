@@ -27,6 +27,9 @@ remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
 sidebar:
   - home
+  - label: Guidelines
+    children:
+      - abbreviations
 
 # Build settings
 markdown: kramdown

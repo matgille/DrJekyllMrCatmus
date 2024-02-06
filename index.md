@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zendesk Garden Jekyll Theme
+title: Catmus
 auto_title: false
 id: home
 ---
