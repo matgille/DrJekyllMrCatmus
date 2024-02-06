@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
+title: CatMuS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -25,16 +25,18 @@ twitter_username: jekyllrb
 github_username:  jekyll
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
+sidebar:
+  - home
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-
+search_enabled: true
 domain: DrJekyllMrCatmus.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://DrJekyllMrCatmus.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /DrJekyllMrCatmus      # place folder name if the site is served in a subfolder
+# baseurl: /docs/      # place folder name if the site is served in a subfolder
 # root: /docs
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
