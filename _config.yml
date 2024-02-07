@@ -44,8 +44,7 @@ plugins:
   - jekyll-feed
 search_enabled: true
 domain: matgille.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://DrJekyllMrCatmus.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /DrJekyllMrCatmus     # place folder name if the site is served in a subfolder
+url: https://matgille.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 # root: /docs
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
