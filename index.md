@@ -1,19 +1,26 @@
 ---
 layout: default
-title: Page principale
+title: Présentation
 auto_title: false
 id: home
 ---
 
-# Manuel de CaTMuS
+# CaTMuS, un ensemble de règles de transcription communes pour le partage des vérités de terrain
 
-Un site statique présentant les avantages de CatMus sur tous les autres projets d'HTR.
+Bienvenue
 
-## Pourquoi ? 
+## Les problèmes de l'hétérogénéité des normes de transcription
 
 
 
-## Comment ?
+## La solution: des normes communes de transcription
+
+
+## Un jeu de données multilingue diachronique 
+
+
+## Citer ce travail
+
 
 
 ## Contribuer, nous écrire
