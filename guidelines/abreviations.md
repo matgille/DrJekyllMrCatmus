@@ -15,5 +15,6 @@ id: abbreviations
 ## Comment ?
 
 
-## Contribuer, nous écrire
+
+## Références
 

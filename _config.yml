@@ -29,8 +29,16 @@ sidebar:
   - home
   - label: Guidelines
     children:
-      - abbreviations
       - segmentation
+      - lettres
+      - label: Les lettres
+        children:
+        - généralités
+        - ligatures
+        - ramistes
+        - chiffres
+      - abbreviations
+
 
 # Build settings
 markdown: kramdown

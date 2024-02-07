@@ -1,19 +1,21 @@
 ---
 layout: default
-title: Segmentation en mots
+title: Segmentation linguistique
 auto_title: false
 id: segmentation
 ---
 
-# La gestion de la segmentation linguistique
-
-
-## Pourquoi conserver les abréviations ? 
+# Gestion de la segmentation (linguistique)
 
 
 
-## Comment ?
+## Une approche conservatrice 
 
 
-## Contribuer, nous écrire
+
+## Les cas limites
+
+
+
+## Références
 
