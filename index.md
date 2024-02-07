@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Catmus
+title: Page principale
 auto_title: false
 id: home
 ---
 
-# CatMus guidelines
+# Manuel de CaTMuS
 
 Un site statique présentant les avantages de CatMus sur tous les autres projets d'HTR.
 
