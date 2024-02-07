@@ -5,10 +5,10 @@ auto_title: false
 id: generalites
 ---
 
-# Transcription des lettres
+# Principes généraux de transcription
 
 
-
+- Une transcription graphématique (référence)
 
 
 ## Références

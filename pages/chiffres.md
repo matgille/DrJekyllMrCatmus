@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Les chiffres
+title: Chiffres
 auto_title: false
 id: chiffres
 ---

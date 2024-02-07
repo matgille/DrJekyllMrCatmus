@@ -28,7 +28,6 @@ remote_theme: matgille/jekyll-theme-zendesk-garden-based@main
 sidebar:
   - home
   - segmentation
-  - lettres
   - label: Lettres
     children:
     - generalites
