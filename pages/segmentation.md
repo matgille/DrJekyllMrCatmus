@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Segmentation linguistique
+title: Segmentation
 auto_title: false
 id: segmentation
 ---
 
-# Gestion de la segmentation (linguistique)
+# Gestion de la segmentation en mots
 
 
 
