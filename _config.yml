@@ -33,7 +33,7 @@ sidebar:
       - lettres
       - label: Les lettres
         children:
-        - généralités
+        - generalites
         - ligatures
         - ramistes
         - chiffres
