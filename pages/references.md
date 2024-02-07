@@ -2,7 +2,7 @@
 layout: default
 title: Citer CatMuS
 auto_title: false
-id: references
+id: citer
 ---
 
 # Citer notre travail
