@@ -43,7 +43,7 @@ theme: minima
 plugins:
   - jekyll-feed
 search_enabled: true
-domain: DrJekyllMrCatmus.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+domain: matgille.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://DrJekyllMrCatmus.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /DrJekyllMrCatmus     # place folder name if the site is served in a subfolder
 # root: /docs
