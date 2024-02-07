@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Généralités
+title: Principes généraux
 auto_title: false
 id: generalites
 ---
